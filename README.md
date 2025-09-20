@@ -1,4 +1,4 @@
-# 🧠 MNIST Classification Challenge: A Step-by-Step Journey to 99.4% Accuracy
+# 🧠 MNIST Challenge: Journey to 99.4% Accuracy
 
 This repository documents the process of building and optimizing a **Convolutional Neural Network (CNN)** to achieve **99.4% accuracy** on the MNIST dataset under strict constraints.
 
